@@ -1,0 +1,11 @@
+{
+  "org": "alanjds",
+  "repo": "drf-nested-routers",
+  "versions": [
+    {
+      "commit": "68e5bf56c9085adef100bbbf1838dfdabb4c5f2a",
+      "tag": "",
+      "parsed_at": "2026-10-18T10:14:04.602392+00:00"
+    }
+  ]
+}
