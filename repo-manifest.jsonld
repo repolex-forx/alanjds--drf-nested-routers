@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/alanjds/drf-nested-routers/commit/68e5bf56c9085adef100bbbf1838dfdabb4c5f2a",
       "git:hexsha": "68e5bf56c9085adef100bbbf1838dfdabb4c5f2a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/alanjds/drf-nested-routers/commit/aae848cace25b5de4cebd842200ae65cf6cb9f30",
